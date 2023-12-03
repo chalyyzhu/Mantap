@@ -129,5 +129,3 @@ if __name__ == "__main__":
           os.system("clear")
           cl.generate(code, str(no))
           print(f"\n\n{no}. {code} | Sukes di generate.")
-          time.sleep(0.3)
-          
